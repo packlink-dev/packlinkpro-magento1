@@ -62,5 +62,4 @@ IpsThumb.db
 !.empty-folder
 
 # ALL LOCAL CHANGES AFTER THIS LINE vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-/api-php-sdk
 /build
