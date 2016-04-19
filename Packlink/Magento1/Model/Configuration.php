@@ -30,7 +30,7 @@ final class Packlink_Magento1_Model_Configuration
      */
     public function getApiUrl()
     {
-        return 'https://apisandbox.packlink.com/v1'; // FIXME: move to config
+        return Mage::getStoreConfig('Packlink_Magento1/general/service_url');
     }
 
     /**

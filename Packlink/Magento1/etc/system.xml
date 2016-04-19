@@ -40,10 +40,17 @@
                             <show_in_default>1</show_in_default>
                             <validate>validate-select</validate>
                         </enabled>
+                        <service_url translate="label comment">
+                            <label>Service URL</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <validate>required-entry validate-url</validate>
+                        </service_url>
                         <api_key translate="label comment">
                             <label>API Key</label>
                             <frontend_type>text</frontend_type>
-                            <sort_order>20</sort_order>
+                            <sort_order>30</sort_order>
                             <show_in_default>1</show_in_default>
                             <validate>required-entry</validate>
                         </api_key>

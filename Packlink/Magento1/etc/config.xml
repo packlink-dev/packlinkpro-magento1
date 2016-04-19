@@ -86,6 +86,14 @@
                 </observers>
             </sales_order_shipment_save_after>
         </events>
-
     </global>
+
+    <default>
+        <Packlink_Magento1>
+            <general>
+                <enabled>0</enabled>
+                <service_url><![CDATA[https://apisandbox.packlink.com/v1]]></service_url>
+            </general>
+        </Packlink_Magento1>
+    </default>
 </config>
