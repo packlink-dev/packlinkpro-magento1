@@ -63,3 +63,5 @@ IpsThumb.db
 
 # ALL LOCAL CHANGES AFTER THIS LINE vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 /build
+/magento-tar-to-connect.phar
+/magento-tar-to-connect.config.php

@@ -19,7 +19,7 @@
 <config>
     <modules>
         <Packlink_Magento1>
-            <version>0.1</version>
+            <version>0.1.0</version>
         </Packlink_Magento1>
     </modules>
 
