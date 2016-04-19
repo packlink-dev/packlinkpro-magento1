@@ -1,2 +1,4 @@
 Packlink/Magento1		app/code/community/Packlink/Magento1
 Packlink_Magento1.xml	app/etc/modules/Packlink_Magento1.xml
+# translations
+locale/en_US/packlink-magento1.csv app/locale/en_US/packlink-magento1.csv

@@ -35,6 +35,10 @@ cp ${DIR}/LICENSE.txt ${EXT_DIR}
 mkdir -p ${ETC_DIR}
 cp ${DIR}/Packlink_Magento1.xml ${ETC_DIR}
 
+# locale
+mkdir -p ${BUILD_DIR}/app/locale
+cp -R ${DIR}/locale/* ${BUILD_DIR}/app/locale
+
 # lib
 # clone fresh copy from github
 GIT=`which git`

@@ -88,6 +88,30 @@
         </events>
     </global>
 
+    <frontend>
+        <translate>
+            <modules>
+                <translations>
+                    <files>
+                        <default>packlink-magento1.csv</default>
+                    </files>
+                </translations>
+            </modules>
+        </translate>
+    </frontend>
+
+    <adminhtml>
+        <translate>
+            <modules>
+                <translations>
+                    <files>
+                        <default>packlink-magento1.csv</default>
+                    </files>
+                </translations>
+            </modules>
+        </translate>
+    </adminhtml>
+
     <default>
         <Packlink_Magento1>
             <general>
