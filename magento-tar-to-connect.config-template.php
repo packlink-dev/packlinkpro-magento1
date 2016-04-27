@@ -57,9 +57,9 @@ return array(
 //Magento Connect author information. If author_email is foo@example.com, script will
 //prompt you for the correct name.  Should match your http://www.magentocommerce.com/
 //login email address
-    'author_name'            => 'Nebojsa Djordjevic',
-    'author_user'            => 'nesh',
-    'author_email'           => 'nesh@younify.nl',
+    'author_name'            => 'Packlink',
+    'author_user'            => 'packlink',
+    'author_email'           => 'ecommerce@packlink.com',
 
 //PHP min/max fields for Connect.  I don't know if anyone uses these, but you should
 //probably check that they're accurate
